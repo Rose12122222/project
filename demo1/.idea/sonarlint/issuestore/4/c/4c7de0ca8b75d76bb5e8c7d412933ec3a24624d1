@@ -1,0 +1,22 @@
+
+f	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÓ©Ä
+f	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÓ©Ä
+f	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÓ©Ä
+f	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÓ©Ä
+e	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê£°M
+k	java:S117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ÃÀÏüÿÿÿÿ
+k	java:S117s"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªŒŠ÷ıÿÿÿÿ
+l	java:S117…"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ·‡½üÿÿÿÿ
+b	java:S116"MRename this field "ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÒŸ
+g	java:S116"RRename this field "role_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦‹Íá
+l	java:S116"WRename this field "phone_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é¡“ó
+p	java:S116"VRename this field "img_profile" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÓĞ¢ùÿÿÿÿ
+W	java:S107!"BConstructor has 11 parameters, which is greater than 7 authorized.(çÓ©Ä
+h	java:S100G"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ò÷ùÿÿÿÿ
+h	java:S100K"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ÃÀÏüÿÿÿÿ
+c	java:S100o"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìò—
+h	java:S100s"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªŒŠ÷ıÿÿÿÿ
+d	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿¶™Õ
+i	java:S100…"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ·‡½üÿÿÿÿ
+A
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü

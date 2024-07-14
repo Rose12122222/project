@@ -1,0 +1,28 @@
+
+…
+java:S1192O"IDefine a constant instead of duplicating this literal "quantity" 3 times.(­è³°J$90114e48-77f7-4ef5-b69c-e6b49daf0761
+™	java:S135v"YReduce the total number of break and continue statements in this loop to use at most one.(â¶ÓÉüÿÿÿÿJ$4dbf6bc9-d02c-47eb-b125-35687ffe66f1
+	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÌãÅJ$822b2a1b-0037-4380-9951-b53b4f4c5d45
+]
+java:S1643q"Use a StringBuilder instead.(¦ÉºÿÿÿÿÿJ$d8381c49-0b5a-4a15-9504-58583e41c936
+Y
+java:S1643Ü"Use a StringBuilder instead.(èüİùJ$f6ef13d0-7348-4d3c-820b-3218741c56de
+n
+java:S1135*"2Complete the task associated to this TODO comment.(¢§‰J$8e912afd-5613-4b77-81ea-73dce592c9da
+
+java:S3776A"RRefactor this method to reduce its Cognitive Complexity from 81 to the 15 allowed.(÷¤‹úJ$8818e493-3da1-425a-95aa-2eeeea0a4e43
+s
+java:S1854L"7Remove this useless assignment to local variable "pro".(ŞƒÅ¢J$21f47b0d-8ea5-4f15-b454-8dff2caa48f7
+t
+java:S1854‚"7Remove this useless assignment to local variable "tmp".(Ğ¦’ÿJ$b417540d-a53e-4700-889b-a0def1acdf4f
+d
+java:S1481L"(Remove this unused "pro" local variable.(ŞƒÅ¢J$ad51c903-0745-49fa-b54f-d299555ff08b
+Œ	java:S128j"LEnd this switch case with an unconditional break, return or throw statement.(Øšë¢ıÿÿÿÿJ$f3012910-1b94-42cc-acce-02dd9f4912d1
+l	java:S106†"+Replace this use of System.out by a logger.(Íó¦âûÿÿÿÿJ$77fe23de-4644-4a7e-8022-76c6cc263f55
+y
+java:S1854×"7Remove this useless assignment to local variable "pro".(ŞÒšµÿÿÿÿÿJ$50335882-8a5e-4488-b0a2-6d4f0a29e3b2
+x	java:S125Ä"<This block of commented-out lines of code should be removed.(æ¼¥J$37d06a7e-139f-469d-9519-d3bafdb738c6
+j
+java:S1481×"(Remove this unused "pro" local variable.(ŞÒšµÿÿÿÿÿJ$a98d062c-5f9b-478a-a092-89bb9de7c4e6
+ƒ
+java:S6541A"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 113 to 64, Complexity from 28 to 14, Nesting Level from 6 to 2, Number of Variables from 27 to 6.(÷¤‹úJ$89609590-be44-4bf4-aa67-105dbadf00d2

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bar Chart Example</title>
+<!-- <link rel="stylesheet" href="ad.css"> -->
+</head>
+<body>
+    <!DOCTYPE html>
+    <html>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js"></script>
+    <body>
+    
+    <canvas id="myChart" style="width:100%;max-width:600px"></canvas>
+    
+    <script>
+    const xValues = ["râu củ", "2nd", "3rd","4rd"];
+    const yValuesA = [20, 15, 20, 40];
+    const yValuesB = [12, 18, 24,30];
+    const yValuesC = [14, 21, 28,50];
+    
+    const barColors = ["red", "green", "blue"];
+    
+    new Chart("myChart", {
+      type: "bar",
+      data: {
+        labels: xValues,
+        datasets: [
+          {
+            label: "A",
+            data: yValuesA,
+            backgroundColor: barColors[0]
+          },
+          {
+            label: "B",
+            data: yValuesB,
+            backgroundColor: barColors[1]
+          },
+          {
+            label: "C",
+            data: yValuesC,
+            backgroundColor: barColors[2]
+          },
+        ]
+      },
+      options: {
+        scales: {
+          y: {
+            beginAtZero: true
+          }
+        }
+      }
+    });
+    </script>
+    
+    </body>
+    </html>
+<!-- <script src="jss.js"></script> -->
+</body>
+</html>

@@ -1,0 +1,11 @@
+
+q
+java:S1104"VMake connection a static final constant or non-public and provide accessors if needed.(à¯ôüÿÿÿÿ
+H
+java:S4925"-Remove this "Class.forName()", it is useless.(ìè©‡úÿÿÿÿ
+L
+java:S6437"6Revoke and change this password, as it is compromised.(şÃÏ§
+Q
+java:S1854"6Remove this useless assignment to local variable "db".(ûÑó§üÿÿÿÿ
+B
+java:S1481"'Remove this unused "db" local variable.(ûÑó§üÿÿÿÿ

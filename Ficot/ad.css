@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.chart {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+    height: 250px;
+    width: 100%;
+    border: 1px solid #ccc;
+}
+
+.bar-group {
+    flex: 1;
+}
+
+.bar {
+    width: 30px;
+    background-color: steelblue;
+    margin: 0 5px;
+}

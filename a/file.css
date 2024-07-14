@@ -1,0 +1,41 @@
+.layere_categorie ul li label:hover,.widget_color ul li a:hover{
+    color: #e84c3d;
+}
+.widget_color ul li a {
+	text-transform: capitalize;
+	color:aqua;
+	position: relative;
+	margin-left: 26px;
+}
+
+.widget_color ul li a::before {
+	position: absolute;
+	content: "";
+	width: 15px;
+	height: 15px;
+	left: -23px;
+	top: 50%;
+	-webkit-transform: translatey(-50%);
+	transform: translatey(-50%);
+}
+.widget_color ul li:first-child a::before{
+    background: #FF0000;;
+}
+/*.test{
+    background-color: #ff6699
+}*/
+.widget_color ul li:last-child a::before{
+   background:aqua;
+}
+.widget_color ul li:nth-last-child(2) a::before{
+   background: #F3349E;
+}
+.widget_color ul li:nth-last-child(3) a::before{
+   background: #F6EF04;
+}
+.widget_color ul li:nth-last-child(4) a::before{
+   background: #008CB7;
+}
+.widget_color ul li:nth-last-child(5) a::before{
+      background: black;
+}

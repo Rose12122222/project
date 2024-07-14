@@ -1,0 +1,37 @@
+
+j
+java:S1192Y"MDefine a constant instead of duplicating this literal "profile.jsp" 10 times.(§âû8òŠù1
+d
+java:S1192ä"FDefine a constant instead of duplicating this literal "error" 4 times.(²Å¬ä8òŠù1
+u
+java:S1192¾"RDefine a constant instead of duplicating this literal "Save Sucessfully!" 3 times.(ŞîĞàıÿÿÿÿ8òŠù1
+c
+java:S1192W"FDefine a constant instead of duplicating this literal "accid" 6 times.(ß‰8òŠù1
+j
+java:S1192¿"GDefine a constant instead of duplicating this literal "sucess" 4 times.(ø…½Íüÿÿÿÿ8òŠù1
+g
+java:S1192X"JDefine a constant instead of duplicating this literal "firstpass" 5 times.(‹ÇÁˆ8òŠù1
+R
+java:S1066¦"/Merge this if statement with the enclosing one.(İ¢›üÿÿÿÿ8òŠù1
+M
+java:S1066­"/Merge this if statement with the enclosing one.(¯Íà€8òŠù1
+r	java:S117y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ÷’Ñıÿÿÿÿ8‘òŠù1
+O
+java:S11351"2Complete the task associated to this TODO comment.(¢§‰8òŠù1
+W	java:S125K"<This block of commented-out lines of code should be removed.(çô¾8 òŠù1
+t
+java:S3776l"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(ş³‚”ûÿÿÿÿ8£òŠù1
+]	java:S125n"<This block of commented-out lines of code should be removed.(¶‚èÁùÿÿÿÿ8¥òŠù1
+X	java:S125–"<This block of commented-out lines of code should be removed.(¶é‘ 8¡Ê›‹ù1
+E
+java:S1125­"'Remove the unnecessary boolean literal.(¯Íà€8ªòŠù1
+Y	java:S125²"<This block of commented-out lines of code should be removed.(êº¦‘8«òŠù1
+Y	java:S125¶"<This block of commented-out lines of code should be removed.(ö’’›8«òŠù1
+^	java:S125º"<This block of commented-out lines of code should be removed.(£êó½úÿÿÿÿ8«òŠù1
+~
+java:S3923¼"[Remove this conditional structure or edit its code blocks so that they're not all the same.(­°±Òùÿÿÿÿ8¬òŠù1
+	java:S125ú"<This block of commented-out lines of code should be removed.(ıŸ‚„8ƒÜŠù1J$eb088631-a2c8-40a1-9aa9-7bebe2a71aa6
+
+java:S5998„"LRefactor this repetition that can lead to a stack overflow for large inputs.(şî­ƒ8…ÜŠù1J$d5f65c35-dd22-4823-bc96-6d64f4d63d48
+é
+java:S6541l"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 108 to 64, Complexity from 22 to 14, Nesting Level from 4 to 2, Number of Variables from 20 to 6.(ş³‚”ûÿÿÿÿ8µòŠù1

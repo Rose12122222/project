@@ -1,0 +1,145 @@
+
+Š
+java:S1192¤"HDefine a constant instead of duplicating this literal "address" 4 times.(Éšû…ıÿÿÿÿJ$b7bc4f14-9849-4022-9257-53af14cd9675
+ˆ
+java:S1192^"LDefine a constant instead of duplicating this literal "profile.jsp" 4 times.(§âûJ$071e46e7-b5ec-4d7b-bacd-343df7097432
+Š
+java:S1192›"HDefine a constant instead of duplicating this literal "gender1" 8 times.(ùÂ±¹ÿÿÿÿÿJ$1d9e7616-e804-471f-a81b-700c7c389995
+Š
+java:S1192"HDefine a constant instead of duplicating this literal "gender2" 8 times.(ãä†öÿÿÿÿÿJ$37eb99fd-97a5-4f2b-aadf-fc66534cc1b2
+‹
+java:S1192”"IDefine a constant instead of duplicating this literal "fullName" 4 times.(¥áÉşÿÿÿÿJ$a2e1a052-a2b1-47f6-8ad3-873cc57bd10f
+‹
+java:S1192¡"IDefine a constant instead of duplicating this literal "Birthday" 4 times.(ˆàõûÿÿÿÿJ$e9821386-9941-419c-be88-03518279fe16
+ƒ
+java:S1192£"FDefine a constant instead of duplicating this literal "phone" 4 times.(µ÷°ÑJ$8809d4f0-9f9e-4f6f-9287-b7a4873373af
+ƒ
+java:S1192]"GDefine a constant instead of duplicating this literal "accid" 12 times.(ß‰J$176855c2-ac9b-4621-9b9c-90c173d85ce4
+ˆ
+java:S1192¢"FDefine a constant instead of duplicating this literal "email" 4 times.(¿“¿«ùÿÿÿÿJ$41f7e224-90a1-43e0-bf82-fdc51b497548
+q
+java:S1066©"/Merge this if statement with the enclosing one.(˜ëÔèúÿÿÿÿJ$47d884bb-84be-40b5-9f05-8222874e8b7a
+q
+java:S1066Ô"/Merge this if statement with the enclosing one.(˜ëÔèúÿÿÿÿJ$90a70569-1a08-4795-b502-cbe849f32c04
+q
+java:S1066ş"/Merge this if statement with the enclosing one.(˜ëÔèúÿÿÿÿJ$9f5488fa-680d-4f17-944d-c33eddf1d612
+q
+java:S1066¨"/Merge this if statement with the enclosing one.(˜ëÔèúÿÿÿÿJ$dd2b05c4-4526-4fce-bcf2-b15737a0c744
+’	java:S117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óæÌ¤şÿÿÿÿJ$adb46b29-fa9d-4a08-80bd-a8f73b2e39fe
+n
+java:S11352"2Complete the task associated to this TODO comment.(¢§‰J$ea89d6ce-dbdf-4e30-baa7-90e12f81f7ce
+|	java:S125K"<This block of commented-out lines of code should be removed.(¶‚èÁùÿÿÿÿJ$dce5b897-a7a1-4531-9d69-d0410041ff9c
+ˆ
+java:S1871d"LThis branch's code block is the same as the block for the branch on line 92.(øï„J$527deda9-9713-490f-aa15-1253344f4023
+
+java:S1871`"LThis branch's code block is the same as the block for the branch on line 92.(»Ø­ÿ8¼ÉïÜù1J$b661ac56-640b-433a-8036-c0d8d8d5a3d3
+
+java:S1871h"LThis branch's code block is the same as the block for the branch on line 92.(»åûÿÿÿÿJ$e0280be9-2e1c-4327-b8be-777e15c784b4
+“
+java:S3776y"RRefactor this method to reduce its Cognitive Complexity from 96 to the 15 allowed.(ş³‚”ûÿÿÿÿJ$eb4d3776-30b8-40fb-96c7-fad87bd1801b
+v
+java:S1854“"9Remove this useless assignment to local variable "accid".(É•÷ĞJ$0868af0c-4800-4e41-9fbb-aa0218d93468
+~
+java:S1854”"<Remove this useless assignment to local variable "fullName".(¥áÉşÿÿÿÿJ$78f96617-6f75-49f4-8a20-d7807fcc0ba9
+v
+java:S1854–"9Remove this useless assignment to local variable "accid".(ŸááËJ$67164a8b-680b-43cc-9e99-04fc888d31ec
+v
+java:S1854™"9Remove this useless assignment to local variable "accid".(¡Ë÷šJ$f885f27e-0b90-4d3e-bd2f-a4eee9104fda
+{
+java:S1854¢"9Remove this useless assignment to local variable "email".(¿“¿«ùÿÿÿÿJ$d3658fe5-63f7-4acb-914b-7ebc20bce85b
+v
+java:S1854£"9Remove this useless assignment to local variable "phone".(µ÷°ÑJ$bd46cbf4-b9d6-405f-804e-70a65504610f
+}
+java:S1854¤";Remove this useless assignment to local variable "address".(Éšû…ıÿÿÿÿJ$9100c97c-7412-4430-b8e9-c68a2612a7fe
+y
+java:S1854¯"7Remove this useless assignment to local variable "BoD".(Œù¹éúÿÿÿÿJ$b19149ce-00e6-4184-b3a3-1a0fbe74c56a
+v
+java:S1854¾"9Remove this useless assignment to local variable "accid".(É•÷ĞJ$a086684b-9bfd-4ee6-997f-377662f6b33b
+~
+java:S1854¿"<Remove this useless assignment to local variable "fullName".(¥áÉşÿÿÿÿJ$d7f3aa5d-8e8e-45e5-b7d2-dee098d40e67
+v
+java:S1854Á"9Remove this useless assignment to local variable "accid".(ŸááËJ$f4f5dd58-7fdf-4306-83aa-bad8975ca145
+v
+java:S1854Ä"9Remove this useless assignment to local variable "accid".(¡Ë÷šJ$00336bba-93ed-46a5-a402-996ec91fe938
+{
+java:S1854Í"9Remove this useless assignment to local variable "email".(¿“¿«ùÿÿÿÿJ$0f459678-14cc-437b-8256-a0a006bb3e5d
+v
+java:S1854Î"9Remove this useless assignment to local variable "phone".(µ÷°ÑJ$478cbccc-9dc3-4a57-98ba-953954460fc4
+}
+java:S1854Ï";Remove this useless assignment to local variable "address".(Éšû…ıÿÿÿÿJ$7227a70f-75b9-48b0-b2dd-70c1d2bdffc2
+y
+java:S1854Ú"7Remove this useless assignment to local variable "BoD".(Œù¹éúÿÿÿÿJ$73bd6704-5bf0-4802-9d10-32305c60164c
+v
+java:S1854è"9Remove this useless assignment to local variable "accid".(É•÷ĞJ$a5dc3aad-d7ae-4b48-a83f-b4e95c2ccf94
+~
+java:S1854é"<Remove this useless assignment to local variable "fullName".(¥áÉşÿÿÿÿJ$47dc4d2f-1215-4bfe-98a3-dfde3d84c512
+v
+java:S1854ë"9Remove this useless assignment to local variable "accid".(ŸááËJ$517cdb13-637e-4c26-9dd4-31da30cde855
+v
+java:S1854î"9Remove this useless assignment to local variable "accid".(¡Ë÷šJ$00b14a74-43cb-4145-95ed-f4b44c0a93e5
+{
+java:S1854÷"9Remove this useless assignment to local variable "email".(¿“¿«ùÿÿÿÿJ$0e955594-2973-4cac-a38f-aca662596dfe
+v
+java:S1854ø"9Remove this useless assignment to local variable "phone".(µ÷°ÑJ$caf6840b-d278-4f6f-8fe8-4199ea55acae
+}
+java:S1854ù";Remove this useless assignment to local variable "address".(Éšû…ıÿÿÿÿJ$c8cc9d12-19fa-401f-8435-2a9661c759f6
+y
+java:S1854„"7Remove this useless assignment to local variable "BoD".(Œù¹éúÿÿÿÿJ$e1241c7c-973b-4806-b95b-c58fa519c075
+v
+java:S1854’"9Remove this useless assignment to local variable "accid".(É•÷ĞJ$e009cafe-bf88-41f5-8932-6c8fd7b9344d
+~
+java:S1854“"<Remove this useless assignment to local variable "fullName".(¥áÉşÿÿÿÿJ$8c3516ab-0af5-4536-99ca-d3560c2ef18f
+v
+java:S1854•"9Remove this useless assignment to local variable "accid".(ŸááËJ$8c8d1d19-39eb-423f-b46f-e07b1475e28f
+}
+java:S1854˜"9Remove this useless assignment to local variable "accid".(¡Ë÷š8†Ñ¸İù1J$f30f7272-8efe-4ee6-9336-e162986ec29f
+{
+java:S1854¡"9Remove this useless assignment to local variable "email".(¿“¿«ùÿÿÿÿJ$0e651b18-7df6-4fcc-a02b-6ff5deae95ee
+v
+java:S1854¢"9Remove this useless assignment to local variable "phone".(µ÷°ÑJ$5133b27c-f744-4d75-bccd-270adaf23ff4
+}
+java:S1854£";Remove this useless assignment to local variable "address".(Éšû…ıÿÿÿÿJ$d4da5ecd-0dfd-4105-92ec-493b182a6092
+y
+java:S1854®"7Remove this useless assignment to local variable "BoD".(Œù¹éúÿÿÿÿJ$5e57abca-c6f1-479c-b2bb-5073305acc45
+|	java:S125{"<This block of commented-out lines of code should be removed.(‚ÓëŒÿÿÿÿÿJ$99908cf4-380d-41ff-9509-9e1327d4c6de
+r
+java:S1481}"1Remove this unused "validMessage" local variable.(Öÿ¯ùÿÿÿÿJ$e7f0f6d3-5e0d-480d-a40d-19e4c86c8425
+o
+java:S1481†"-Remove this unused "fullName" local variable.(–³ˆûÿÿÿÿJ$d4b57eec-7f7a-4e48-aa55-cf359ff6c5bb
+g
+java:S1481Š"*Remove this unused "email" local variable.(­ÁÇJ$47f307ec-169f-4ede-8554-a0c9ab1dac76
+g
+java:S1481Œ"*Remove this unused "phone" local variable.(¹ßıèJ$5c7be147-7a21-4eaf-9e9d-56ea60bd61c8
+n
+java:S1481",Remove this unused "address" local variable.(‡ºÁ©ùÿÿÿÿJ$050b401a-f078-4973-a16a-0627997f0c0d
+l
+java:S1481"*Remove this unused "list1" local variable.(‚îˆäüÿÿÿÿJ$1cafb7d3-5f23-4917-989b-6255af892317
+g
+java:S1481“"*Remove this unused "accid" local variable.(É•÷ĞJ$dfca4537-aa3b-4bd0-91c1-91f673f12e5b
+i
+java:S1125©"'Remove the unnecessary boolean literal.(˜ëÔèúÿÿÿÿJ$ac2886ff-83e2-49c9-98a8-5862e3e221f1
+e	java:S108µ")Either remove or fill this block of code.(”ı¾J$e1c87578-65db-4db6-9650-98c6d41db006
+l
+java:S1481º"*Remove this unused "list2" local variable.(³Òì›ıÿÿÿÿJ$4639364d-d640-4c59-b4ff-8d2ed3f412ca
+g
+java:S1481¾"*Remove this unused "accid" local variable.(É•÷ĞJ$d2cccb60-ec34-42ed-b9fd-45028ae3cceb
+i
+java:S1125Ô"'Remove the unnecessary boolean literal.(˜ëÔèúÿÿÿÿJ$554354a4-4961-425f-8fe5-7aeebc9b33f6
+l
+java:S1481ä"*Remove this unused "list3" local variable.(è…ÉşÿÿÿÿJ$2e747cf9-b21f-4eec-9dfe-321d2e14a25b
+g
+java:S1481è"*Remove this unused "accid" local variable.(É•÷ĞJ$6a7644f6-47ca-41cd-bc20-fca4067b7525
+i
+java:S1125ş"'Remove the unnecessary boolean literal.(˜ëÔèúÿÿÿÿJ$3674adea-29a5-4fad-a40c-c90d9a254ff6
+l	java:S108Š")Either remove or fill this block of code.(”ı¾8öÂ¾İù1J$9f2a2dc5-3ca1-4de1-a752-43075b7a84fc
+l
+java:S1481"*Remove this unused "list4" local variable.(ó¾ÅşøÿÿÿÿJ$ba0144e2-7f27-423e-93ba-91a7fe10e0e7
+g
+java:S1481’"*Remove this unused "accid" local variable.(É•÷ĞJ$8b6d45bb-018e-4340-8a6a-724514a17115
+i
+java:S1125¨"'Remove the unnecessary boolean literal.(˜ëÔèúÿÿÿÿJ$6c6a78e5-5af7-417a-840a-f26ea235652e
+l	java:S108´")Either remove or fill this block of code.(”ı¾8ÚıÏİù1J$b3371341-f27e-474c-ae03-a0f876d907f0
+‰
+java:S5998¼"LRefactor this repetition that can lead to a stack overflow for large inputs.(şî­ƒJ$06e6c21c-a729-47a1-893d-54a81b60da46
+ˆ
+java:S6541y"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 168 to 64, Complexity from 49 to 14, Nesting Level from 4 to 2, Number of Variables from 31 to 6.(ş³‚”ûÿÿÿÿJ$3f7804a7-f14b-453c-93bd-cd382f72eb96

@@ -1,0 +1,88 @@
+<head>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto|Varela+Round">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+    <style>
+        /* body {
+            background-image: url(/img/1.jpg);
+        } */
+
+        .modal-dialog {
+            background-image: url(/img/1.jpg);
+            background-size: cover;
+            background-position: center;
+            /* height: 100px;
+            width: 100px; */
+        }
+    </style>
+</head>
+
+<body>
+
+
+    <div class="modal-dialog" >
+        <div class="modal-content">
+            <form action="pro" method="post">
+                <div class="row">
+                    <div class="modal-header ">
+                        <h4 class="modal-title  col-sm-7" style="font-size:30px"><b>Add New Product</b></h4>
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                    </div>
+                    <div class="col-sm-6"> </div>
+                </div>
+                <div class="modal-body">
+                    <input type="hidden" name="action" value="edit">
+                    <div class="form-group">
+                        <i><label class="haibip2" style="font-size: 20px;">Name</label></i>
+                        <input value="${param.name}" name="name" type="text" class="form-control" required>
+                    </div>
+
+                    <div class="form-group">
+                        <i> <label style="font-size: 20px;">Price</label></i>
+                        <input value="${param.price}" name="price" type="text" class="form-control" required>
+                    </div>
+                    <div class="form-group">
+                        <i> <label style="font-size: 20px;">Type</label></i>
+                        <input value="${param.type}" name="type" type="text" class="form-control" required>
+                    </div>
+                    <div class="form-group">
+                        <i><label style="font-size: 20px;">Date</label></i>
+                        <input value="${param.date}" name="date" type="text" class="form-control" required>
+                    </div>
+                    <div class="form-group">
+                        <i> <label style="font-size: 20px;">Amount</label></i>
+                        <input value="${param.amount}" name="amount" type="text" class="form-control" required>
+                    </div>
+                    <div class="form-group">
+                        <i><label style="font-size: 20px;">Discount</label></i>
+                        <input value="${param.discount}" name="discount" type="text" class="form-control" required>
+                    </div>
+                    <div class="form-group">
+                        <i><label style="font-size: 20px;">Image</label></i>
+                        <input value="${param.img}" name="img" type="text" type="text" class="form-control" required>
+                    </div>
+                    <div class="form-group">
+                        <i> <label style="font-size: 20px;">Alt</label></i>
+                        <input value="${param.alt}" name="alt" type="text" type="text" class="form-control" required>
+                    </div>
+                    <div class="form-group row sl">
+                        <i> <label style="font-size: 20px;">Category</label><br></i>
+                        <select name="category" class="form-select op" aria-label="Default select example">
+                            <c:forEach items="${sessionScope.categoryList}" var="o">
+                                <option value="${param.category}">${o.name}</option>
+                            </c:forEach>
+                        </select>
+                    </div>
+
+                </div>
+                <div class="modal-footer">
+                    <input type="submit" class="btn btn-success" value="Edit">
+                </div>
+            </form>
+        </div>
+    </div>
+</body>

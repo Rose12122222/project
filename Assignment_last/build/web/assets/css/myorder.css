@@ -1,0 +1,19 @@
+table thead tr th {
+	border-bottom: 3px solid #00bba6;
+	border-right: 1px solid #ddd;
+	color: #5b5b5b;
+	font-size: 14px;
+	font-weight: 700;
+	text-transform: uppercase;
+	padding: 10px;
+	text-align: center;
+}
+.table_desc table thead tr th.order_id{
+    min-width: 150px;
+}
+.table_desc table thead tr th.order_date, .table_desc table thead tr th.order_status{
+    min-width: 1000px;
+}
+.table_desc table thead tr th.order_total{
+    min-width: 350px;
+}

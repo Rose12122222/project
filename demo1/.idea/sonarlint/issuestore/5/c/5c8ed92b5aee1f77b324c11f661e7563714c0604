@@ -1,0 +1,16 @@
+
+‘
+java:S1192"IDefine a constant instead of duplicating this literal "password" 3 times.(ÜØÖıÿÿÿÿ8‘äöˆù1J$edeb1856-1d54-42ba-b77c-18e558b98265
+Œ	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°Éá±J$759dd328-34dd-4161-9e6d-2d9dff1fedf6
+“	java:S117j"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿³‰ˆ8ƒƒ‰ù1J$e471d414-c371-44a4-b302-bda47cec37ae
+“	java:S117j"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿³‰ˆ8Şö‰ù1J$1c3cc238-8230-43e8-bffa-6217f33512e3
+“	java:S117j"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿³‰ˆ8Şö‰ù1J$9b041db2-7f02-4cb4-8eaa-65a14285509a
+•
+java:S14889"YImmediately return this expression instead of assigning it to the temporary variable "s".(Ïµç¼J$68696f17-5a02-4116-bd7b-76624aa47286
+k	java:S106-"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿJ$eb69d5a3-1e9b-4fa2-b9c1-086423b14574
+k	java:S106J"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿJ$df20f5ea-9345-4a4f-89b3-8875bc487ebc
+r	java:S106X"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8£äöˆù1J$c7bafb40-e7cc-4692-ba7f-599b9ec05027
+r	java:S106f"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8¥äöˆù1J$aef38277-148f-4236-9a14-df1ab38f45f7
+k	java:S106z"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿJ$279f946f-5a07-4b24-a42a-98c3f7202012
+s	java:S106"+Replace this use of System.out by a logger.(ï‡ºñÿÿÿÿÿ8›ƒ‰ù1J$194a16a4-7cba-41c0-bcb1-d558d90d1a06
+}	java:S125€"<This block of commented-out lines of code should be removed.(´˜§íıÿÿÿÿJ$aafb2885-a5aa-4ce2-beba-44c7fed17e71
